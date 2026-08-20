@@ -27,7 +27,7 @@ The complete mod can be found on **[Nexus Mods](https://www.nexusmods.com/alicem
 
 Run the patches by executing this command in CMD:
 ```cmd
-python voice_patch_v3.py
+python voice_patch.py
 ```
 
 ## Track IDs
@@ -42,7 +42,7 @@ python voice_patch_v3.py
 
 ## Mod Compatibility: AMR Upscaled Cutscenes
 
-If you want to use this tool with the mod **"AMR Upscaled Cutscenes"**, you must change the following lines in `bik_voice_patch_v3.py`.
+If you want to use this tool with the mod **"AMR Upscaled Cutscenes"**, you must change the following lines in `voice_patch.py`.
 
 **From:**
 ```python

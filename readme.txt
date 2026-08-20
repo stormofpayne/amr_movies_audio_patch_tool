@@ -21,7 +21,7 @@ LOCATION OF MOVIES: <path-of-game>/AliceGame/Movies
 ======================================================================================
 
 RUN PATCHES BY EXECUTING THIS IN CMD:
-python voice_patch_v3.py
+python voice_patch.py
 
 ======================================================================================
 
@@ -37,7 +37,7 @@ BINK ID | LANGUAGE
 ======================================================================================
 
 IF YOU WANT TO USE THIS TOOL WITH THE MOD "AMR Upscaled Cutscenes" YOU HAVE TO CHANGE 
-THESE LINES ON "bik_voice_patch_v3.py":
+THESE LINES ON "voice_patch.py":
 
 ENGLISH_TRACK_ID = 5
 TRACK_TO_REPLACE = [8, 14, 11, 17]  # French, German, Italian, Spanish
