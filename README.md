@@ -20,8 +20,7 @@ The complete mod can be found on **[Nexus Mods](https://www.nexusmods.com/alicem
 
 ## Important Locations
 
-- **RADVideo Tools (Typically):** `C:\Program Files (x86)\RADVideo
-advideo64.exe`
+- **RADVideo Tools (Typically):** `C:\Program Files (x86)\RADVideo\radvideo64.exe`
 - **Movies Folder:** `<path-of-game>/AliceGame/Movies`
 
 ## How to Run
